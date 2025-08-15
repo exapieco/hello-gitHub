@@ -1,1 +1,2 @@
-# hello-gitHub
+2025/08/15
+非エンジニアのためのGit/GitHub勉強会　に参加
